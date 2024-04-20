@@ -1,3 +1,1 @@
-# kanak and code
-
-kanak coding backend
+# kanak and backend
